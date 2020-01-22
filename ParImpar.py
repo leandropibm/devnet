@@ -1,3 +1,6 @@
+import math
+import random
+
 def ParOuImpar(numero):
     try:
         numero = int(numero)
